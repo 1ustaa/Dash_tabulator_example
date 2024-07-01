@@ -1,5 +1,5 @@
-![Table GIF](https://github.com/1ustaa/Dash_tabulator_example/blob/master/table.gif)
 Если у вас есть задача визуализации данных с иерархией в проекте на Dash - это можно сделать с помощью библиотек Dash Tabulator, Dash. С их помощью можно создать удобный и наглядный интерфейс для отображения данных, 
+![Table GIF](https://github.com/1ustaa/Dash_tabulator_example/blob/master/table.gif)
 
 Dash — это фреймворк для создания аналитических веб-приложений на Python. Он позволяет легко создавать интерактивные пользовательские интерфейсы, идеально подходящие для визуализации данных.
 
